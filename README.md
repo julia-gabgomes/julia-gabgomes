@@ -1,10 +1,10 @@
 ## Olá! 👋
 
-Sou desenvolvedora Front End e estou completando minha formação Full Stack! Desde que decidi transformar minha curiosidade e interesse em tecnologia na minha carreira, aprendi diversas tecnologias e participei de projetos com metodologia ágil, além de concluir cursos de lógica de programação e pensamento computacional.
+Sou desenvolvedora Full Stack web com 1 ano de experência. Desde que comecei a estudar programação e desenvolvimento web em 2022, aprendi diversas tecnologias e participei de projetos com metodologia ágil. Atualmente trabalho com o ecossistema JavaScript no front e back end.
 
-+ Tecnologias Back End: desenvolvimento de APIs RESTful, NodeJS, Express, SQL (PostgreSQL) e ORM (TypeORM), testes unitários e de integração com Jest;
-+ Tecnologias Front End: desenvolvimento web com HTML5, CSS3, JavaScript, ReactJS, integração com APIs REST, CSS in JS (styled-components);
-+ Outras tecnologias: TypeSript, Scrum, GIT.
++ Tecnologias Back End: desenvolvimento de APIs RESTful, NodeJS, Express/Fastify, SQL (MySQL e PostgreSQL) e ORM (TypeORM), testes unitários e de integração com Jest;
++ Tecnologias Front End: Next.js e Tailwind CSS, HTML5, CSS3, JavaScript, ReactJS, integração com APIs REST, CSS in JS (styled-components);
++ Outras tecnologias: TypeScript, Scrum, GIT.
 
 <!--
 **julia-gabgomes/julia-gabgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
